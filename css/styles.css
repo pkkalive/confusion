@@ -60,16 +60,9 @@ address{
     min-height: 300px;
 }
 
-.text-color {
-    background-color: #FCBF41;
-    color: #FFFFFF;
-    padding: 15px;
-}
-
-#reserveform {
-    padding: 0px;
-}
-
-form {
-    padding: 15px;
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
 }
