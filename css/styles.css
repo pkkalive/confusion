@@ -37,3 +37,17 @@ address{
 .navbar-dark {
     background-color: #512DA8 !important;
 }
+
+.text-color {
+    background-color: #FCBF41;
+    color: #FFFFFF;
+    padding: 15px;
+}
+
+#reserve-table {
+    padding: 0px;
+}
+
+form {
+    padding: 15px;
+}
